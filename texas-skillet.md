@@ -1,7 +1,7 @@
 Veg Texas Skillet
 ==================
 
-# Ingredients
+## Ingredients
 
 1. 3/4 cups of chopped yellow onion
 2. 16 oz of spaghetti sauce
