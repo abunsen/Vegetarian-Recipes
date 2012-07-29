@@ -1,13 +1,24 @@
-Quick & Easy Kimchi Quesadillas
+Kimchi Quesadillas
+==================
 
-Ingredients:
+![Photo Title Here](photo://url.here/ "Photo Title Here")
 
-Corn tortillas (At least 2)
-Shredded Cheese
-Kimchi (My favorite is Firefly Kimchi, but if you're feeling fancy you make your own a month or two prior to this)
-Meat Substitute (Optional)
+## Time
 
-Prep:
+1. Prep - 10-15 min
+2. Cooking - 10-15 min
+3. Cooling - 5 min
+
+**Total time** - 25-35min
+
+## Ingredients
+
+1. Corn tortillas (At least 2)
+2. Shredded Cheese
+3. Kimchi (My favorite is Firefly Kimchi, but if you're feeling fancy you make your own a month or two prior to this)
+4. [optional: Meat substitute]
+
+## Steps
 
 Put your skillet on the stove on medium heat to warm it up (I prefer cast iron).
 Layout a corn tortilla.
@@ -28,4 +39,4 @@ As the bottom tortilla heats up, the cheese will melt. At this points, gently pr
 The bottom tortilla won't take long to cook. Use a utensil to check the bottom of it until it reaches a golden brown.The cheese should also be melted at this point.
 Flip the whole thing over so the top tortilla can cook to the same golden brown. If cheese has already melted onto the top tortilla (and it should), flipping is easy. If you suck at flipping, use a spatula to get under it and your other hand to hold the top tortilla in place while you flip. 
 
-Eat the fuck out of it. 
+## Eat the fuck out of it. 
