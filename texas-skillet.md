@@ -11,7 +11,7 @@ Veg Texas Skillet
 6. 1.5 teaspoons of chili powder 
 7. 1/2 a teaspoon garlic salt
 8. Tortilla chips
-9. [optional: shredded cheddar or monterey jack cheese]
+9. [optional: vegan cheese or (non vegan: shredded cheddar or monterey jack cheese)]
 
 ## Steps
 
