@@ -1,7 +1,8 @@
 Veg Texas Skillet
 ==================
 
-(http://distilleryimage3.s3.amazonaws.com/92eb5adaa21211e181bd12313817987b_7.jpg "Non-Vegan Version")
+![Non-Vegan Version](http://distilleryimage3.s3.amazonaws.com/92eb5adaa21211e181bd12313817987b_7.jpg "Non-Vegan Version")
+
 
 ## Ingredients
 
