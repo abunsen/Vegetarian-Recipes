@@ -38,11 +38,11 @@ Veg(an) Burgers
 7. Once time is up, stir to let out heat
 8. Place casserole dish in refrigerator for 40 minutes [or for the rushed, freezer for 15 minutes]
 9. Once cool, mush mixture into patties 
-	A. Use your hands / fists
-	B. If you prefer not to do that, use a mallet
+	- A. Use your hands / fists
+	- B. If you prefer not to do that, use a mallet
 10. Set stove to medium heat & drop in 1 tablespoon of olive oil
 11. Put in a patty or two & fry for 4-6 minutes on each side (or until dark brown / crispy)
-	A. Put cheese over completed side for a nice melt
+	- A. Put cheese over completed side for a nice melt
 12. Place on bun
 
 ### Enjoy!

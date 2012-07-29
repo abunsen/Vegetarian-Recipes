@@ -36,7 +36,7 @@ Veg(an) Texas Skillet
 8. Set stove to low-medium heat & stir every 30-45 seconds (~5 minutes)
 9. When mixture is slightly more solid than liquid, pour in 1/2 cup water
 10. Keep Stirring (~7 minutes)
-	A. Note: If you plan on coating with cheese, pre-heat oven to 425f
+	- A. Note: If you plan on coating with cheese, pre-heat oven to 425f
 11. Move mixture into casserole dish & coat with cheese
 12. Leave in oven for 3-5 minutes
 13. Let sit for 4-6 minutes
