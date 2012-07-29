@@ -3,11 +3,11 @@ Veg(an) Texas Skillet
 
 ![Non-Vegan Version](http://distilleryimage3.s3.amazonaws.com/92eb5adaa21211e181bd12313817987b_7.jpg "Non-Vegan Version")
 
-## Ingredients
+## Time
 
-Prep - 10-15 min
-Cooking - 10-15 min
-Cooling - 5 min
+1. Prep - 10-15 min
+2. Cooking - 10-15 min
+3. Cooling - 5 min
 
 **Total time** - 25-35min 
 
