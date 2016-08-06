@@ -14,7 +14,7 @@ Prep - 30 Min
 - 2 Ears of Corn (Cut from Ear)
 - 1 Onion (Diced)
 - 3 Cloves of Garlic (Microplane)
-- 1 Microlite of Stock
+- 1 32 oz. of Stock
 - 3 Chicken Breasts (Whole)
 - 4 oz Cream Cheese
 - 1 Packet of unflavored gelatin
