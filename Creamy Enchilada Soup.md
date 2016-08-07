@@ -18,11 +18,12 @@ Prep - 30 Min
 - 3 Chicken Breasts (Whole)
 - 4 oz Cream Cheese
 - 1 Packet of unflavored gelatin
+- Smoked Paprika, Chili Powder, Chipotle Powder
 
 ## Steps
 1. Put onion in pot on **MED** after soft add corn and Garlic
 2. After cooked add 1 can of diced Tomatoes and chicken
-3. Add Stock,  smoke paprika, chili powder, chipotle powder
+3. Add Stock,  smoke paprika (1 tbsp), chili powder (1 tbsp), chipotle powder (1 tsp)
 4. Mix 1 packet of gelatin with 1/4 cup cold water and let sit for 5 minutes. Once gelled add to pot
 5. Bring to a simmer and let cook uncovered for 1.5 hours
 6. Remove chicken from pot and shred with forks
