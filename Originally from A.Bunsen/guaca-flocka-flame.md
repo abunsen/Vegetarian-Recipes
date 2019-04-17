@@ -1,7 +1,7 @@
 Guaca Flocka (Flame)
 ==================
 
-![Vegan Burger](http://distilleryimage11.s3.amazonaws.com/f0134fe4cbcd11e1a8761231381b4856_7.jpg "Vegan Burger")
+![Mango guac](http://distilleryimage11.s3.amazonaws.com/f0134fe4cbcd11e1a8761231381b4856_7.jpg "Vegan Burger")
 
 ## Time
 
