@@ -4,9 +4,11 @@
 
 ## Time
 
-1. Prep - 5-10 min
+1. Prep - 15-20 min
+2. Cooking - 45-55 min
+3. Cooling - 5 min
 
-**Total time** - 5 - 10 min
+**Total time** - 60-70 min
 
 ## Ingredients
 
