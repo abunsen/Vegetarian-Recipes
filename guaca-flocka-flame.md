@@ -1,14 +1,12 @@
-Guaca Flocka (Flame)
-==================
+# Guaca Flocka (Flame)
 
-![Mango guac](http://distilleryimage11.s3.amazonaws.com/f0134fe4cbcd11e1a8761231381b4856_7.jpg "Vegan Burger")
+![Mango guac](https://i.imgur.com/JpSsdun.jpg "Mango guac")
 
 ## Time
 
 1. Prep - 5-10 min
 
-**Total time** - 5 - 10 min 
-
+**Total time** - 5 - 10 min
 
 ## Ingredients
 
@@ -16,7 +14,7 @@ Guaca Flocka (Flame)
 2. 1/2 tablespoon of chopped cilantro
 3. 1/2 of a lime
 4. 2 ripe avocados
-5. 1/2 of a ripe (preferrably red) mango
+5. 1/2 of a ripe (preferrably red) mango (sub pineapple)
 6. 3 tablespoons of lime juice
 7. 1/2 tablespoon of cumin
 8. 1 teaspoon of salt
@@ -27,7 +25,7 @@ Guaca Flocka (Flame)
 
 ## Steps
 
-1. Mix ingredients 1-9 together progressively until you have the desired consistency 
+1. Mix ingredients 1-9 together progressively until you have the desired consistency
 2. Add 11 and/or 12 if you’d like a little kick
 3. Serve with Tortilla chips!
 
